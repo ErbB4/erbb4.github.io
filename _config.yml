@@ -40,7 +40,7 @@ resume_social_links:
   resume_facebook_url:          "https://www.facebook.com/profile.php?id=100007404134873"
   resume_linkedin_url:          "https://www.linkedin.com/in/han-lu-a2a17a50?trk=nav_responsive_tab_profile_pic"
   # resume_instagram_url:         "insert your Instagram URL here"
-  #resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "http://hanlu.io/blog"
 
 # Design settings
 resume_theme:                   default
